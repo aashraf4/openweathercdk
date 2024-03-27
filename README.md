@@ -1,6 +1,6 @@
 # OpenWeather Data Pipeline
 
-This project implements an AWS-based data pipeline to fetch weather data from the OpenWeather API, process it, and store it in an S3 bucket. The pipeline consists of AWS Lambda functions triggered by S3 events and CloudWatch Events.
+This project implements an AWS-based data pipeline to fetch weather data from the OpenWeather API, process it, and store it in an S3 bucket. The pipeline consists of AWS Lambda functions triggered by S3 events and EventBridge Scheduler.
 
 ## Project Structure
 
